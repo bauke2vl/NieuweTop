@@ -41,7 +41,8 @@ img {
   float: left
 }
 
-/*/ bron voor transitie: https://www.w3schools.com/css/tryit.asp?filename=trycss3_transition2/*/
+/*/ bronnen voor transitie: https://www.w3schools.com/css/tryit.asp?filename=trycss3_transition2/*/
+/*/tweede: https://www.w3schools.com/css/css_link.asp/*/
 a {
   transition-duration: 0.5s;
   font-family: fantasy;
@@ -58,7 +59,8 @@ a:hover {
 }
 
 a:link {
-  text-decoration: none;
+  text-decoration: wavy;
+  color: rgb(54, 34, 10);
 }
 
 h1 {
